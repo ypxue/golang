@@ -12,6 +12,11 @@ func main() {
 	fmt.Println(arr)
 }
 
+// 插入排序
+func insertSort(arr []int) []int {
+
+}
+
 // 快速排序
 func quickSort(arr []int) []int {
 	if len(arr) <= 1 {
